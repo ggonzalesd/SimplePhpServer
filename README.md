@@ -75,3 +75,12 @@ Configurar la conexión a la base de datos
 
 ![](imgs/ssh-17-01-view.png)
 ![](imgs/ssh-17-02-view.png)
+
+![](imgs/img-01-phone.jpeg)
+![](imgs/img-02-pc.jpeg)
+![](imgs/img-03-laptop.jpeg)
+![](imgs/img-04-laptop.jpeg)
+![](imgs/img-05-laptop.jpeg)
+![](imgs/img-06-laptop.png)
+![](imgs/img-07-laptop.png)
+![](imgs/img-08-laptop.png)
