@@ -1,14 +1,14 @@
 # SimplePhpServer
 
-## Creacion de la máquina virtual
+## Creación de la máquina virtual
 ![](imgs/azure-01-create-VM.png)
 
-habilitar puertos 80(web), 5432(postgres)
+habilitar puertos 80(http), 5432(postgres)
 ![](imgs/azure-02-ports.png)
 
 ## Conexión a la máquina virtual
 
-Conexión a travéz de ssh.
+Conexión a través de ssh.
 ```bash
 ssh Administrador@20.226.56.19
 ```
@@ -38,6 +38,7 @@ Habilitar conexiónes a la base de datos.
 Configurar usuario postgres y crear base de datos `osjob`.
 
 ![](imgs/ssh-06-config-user-database.png)
+
 Crear tablas y insertar datos con el archivo <a href="https://gist.github.com/ggonzalesd/0039bfbc64b0c484819ed6948274aff7">dataserver.sql</a>
 
 ![](imgs/ssh-07-init-database.png)
@@ -48,7 +49,7 @@ Conectarse a la base de datos desde la computadora local y mostrar las tablas.
 
 ## Configuración de capa de aplicación
 
-Instalación de `apach2` `php7.4` y el adaptador para `postgres12`
+Instalación de `apache2` `php7.4` y el adaptador para `postgres12`
 
 ![](imgs/ssh-09-Install-apache2.png)
 
