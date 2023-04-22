@@ -1,5 +1,11 @@
 # SimplePhpServer
 
+## Creacion de la máquina virtual
+![](imgs/azure-01-create-VM.png)
+
+habilitar puertos 80(web), 5432(postgres)
+![](imgs/azure-02-ports.png)
+
 ## Conexión a la máquina virtual
 
 Conexión a travéz de ssh.
