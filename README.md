@@ -10,7 +10,7 @@ habilitar puertos 80(http), 5432(postgres)
 
 Conexión a través de ssh.
 ```bash
-ssh Administrador@20.226.56.19
+ssh administrador@20.226.56.19
 ```
 ![](imgs/shh-01-connect.png)
 
