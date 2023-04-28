@@ -8,7 +8,11 @@
           <div class="item-user_info">
             <div class="item-user_info_sub">$user[dni]</div>
             <div class="item-user_info_sub">$user[username]</div>
-            <a href="./users.php?user=$user[username]">View</a>
+            <p class='iterm-user-a'>
+              <a href="./users.php?user=$user[username]">
+              <img src="./imgs/link.svg">
+              </a>
+            </p>
           </div>
           <div class="item-user_name">
             $user[fullname]
