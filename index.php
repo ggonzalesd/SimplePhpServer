@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>T2 Apache2</title>
+	<title>TP Apache2</title>
 </head>
 <?php
 	include_once ("conexion.php");
